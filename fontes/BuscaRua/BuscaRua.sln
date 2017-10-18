@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "BuscaRua", "BuscaRua\BuscaRua.jsproj", "{885B140B-87FF-4927-A5F9-91961B7A47CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-AnyCPU = Debug|Windows-AnyCPU
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-AnyCPU = Release|Windows-AnyCPU
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Android.ActiveCfg = Debug|Android
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Android.Build.0 = Debug|Android
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Android.Deploy.0 = Debug|Android
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|iOS.ActiveCfg = Debug|iOS
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|iOS.Build.0 = Debug|iOS
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|iOS.Deploy.0 = Debug|iOS
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-AnyCPU.ActiveCfg = Debug|Windows-AnyCPU
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-AnyCPU.Build.0 = Debug|Windows-AnyCPU
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-AnyCPU.Deploy.0 = Debug|Windows-AnyCPU
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Android.ActiveCfg = Release|Android
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Android.Build.0 = Release|Android
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Android.Deploy.0 = Release|Android
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|iOS.ActiveCfg = Release|iOS
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|iOS.Build.0 = Release|iOS
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|iOS.Deploy.0 = Release|iOS
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-AnyCPU.ActiveCfg = Release|Windows-AnyCPU
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-AnyCPU.Build.0 = Release|Windows-AnyCPU
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-AnyCPU.Deploy.0 = Release|Windows-AnyCPU
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{885B140B-87FF-4927-A5F9-91961B7A47CF}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0ACE64D-ABD8-4D1C-B3F1-819EE2BE5ED5}
+	EndGlobalSection
+EndGlobal
